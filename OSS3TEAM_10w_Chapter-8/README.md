@@ -547,15 +547,45 @@ $
   |:--:|:--:|
   |파생된 두 브랜치를 하나로 합치는 과정|두 브랜치를 서로 비교하지 않고 순차적으로 키멋 병합|
 ## 8.7.4 ~ 8.7.9 rebase 명령어
+  
+  <br/>
+  
 ![1](https://user-images.githubusercontent.com/105197546/202142216-92e3aee0-7e3b-41a0-bd6c-6485a254bd59.png)
+  
+  <br/>
+  
 ![2](https://user-images.githubusercontent.com/105197546/202142226-d153d6fb-269d-4e6a-bbdf-0756728276d8.png)
+  
+  <br/>
+  
 ![3](https://user-images.githubusercontent.com/105197546/202142234-b904e7b3-b04a-4a57-a951-eb693618ba4b.png)
+  
+  <br/>
+  
 ![4](https://user-images.githubusercontent.com/105197546/202142244-ebe3f59d-e000-40a0-b95c-ba120d8aab1d.png)
+  
+  <br/>
+  
 ![5](https://user-images.githubusercontent.com/105197546/202142255-116863b9-2a0e-4ba2-b498-0dc72bc3281a.png)
+  
+  <br/>
+  
 ![6](https://user-images.githubusercontent.com/105197546/202142265-840cd890-21b2-496a-9e1f-91307eef7221.png)
+  
+  <br/>
+  
 ![7](https://user-images.githubusercontent.com/105197546/202142270-3a26130b-985c-4268-962c-ab5befcc9750.png)
+  
+  <br/>
+  
 ![8](https://user-images.githubusercontent.com/105197546/202142279-f6dbe7e1-f35a-4f5d-b02e-2f52d3232f25.png)
+  
+  <br/>
+  
 ![9](https://user-images.githubusercontent.com/105197546/202142288-4fc35349-dcca-4498-9549-31dae47978a6.png)
+  
+  <br/>
+  
 
   
 ## 8.7.10 리베이스할 때 주의할 점
