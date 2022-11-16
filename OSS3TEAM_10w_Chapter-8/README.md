@@ -546,20 +546,17 @@ $
   |병합|리베이스|
   |:--:|:--:|
   |파생된 두 브랜치를 하나로 합치는 과정|두 브랜치를 서로 비교하지 않고 순차적으로 키멋 병합|
-## 8.7.4 리베이스 명령어
-  ![8 7 4](https://user-images.githubusercontent.com/105197546/201689270-e07b0a91-389b-447d-a678-eed2ff891c7d.png)
-  ![8 7 4 1](https://user-images.githubusercontent.com/105197546/201689238-b1b3a138-0516-426d-8651-621da86cdd0e.png)
-![8 7 4 2](https://user-images.githubusercontent.com/105197546/201689255-ad43eb2d-f3c0-45e4-9969-d1bb64be6138.png)
+## 8.7.4 ~ 8.7.9 rebase 명령어
+![1](https://user-images.githubusercontent.com/105197546/202142216-92e3aee0-7e3b-41a0-bd6c-6485a254bd59.png)
+![2](https://user-images.githubusercontent.com/105197546/202142226-d153d6fb-269d-4e6a-bbdf-0756728276d8.png)
+![3](https://user-images.githubusercontent.com/105197546/202142234-b904e7b3-b04a-4a57-a951-eb693618ba4b.png)
+![4](https://user-images.githubusercontent.com/105197546/202142244-ebe3f59d-e000-40a0-b95c-ba120d8aab1d.png)
+![5](https://user-images.githubusercontent.com/105197546/202142255-116863b9-2a0e-4ba2-b498-0dc72bc3281a.png)
+![6](https://user-images.githubusercontent.com/105197546/202142265-840cd890-21b2-496a-9e1f-91307eef7221.png)
+![7](https://user-images.githubusercontent.com/105197546/202142270-3a26130b-985c-4268-962c-ab5befcc9750.png)
+![8](https://user-images.githubusercontent.com/105197546/202142279-f6dbe7e1-f35a-4f5d-b02e-2f52d3232f25.png)
+![9](https://user-images.githubusercontent.com/105197546/202142288-4fc35349-dcca-4498-9549-31dae47978a6.png)
 
-## 8.7.5 리베이스 병합
-  
-## 8.7.6 리베이스되었는지 확인
-  
-## 8.7.7 리베이스 후 브랜치
-  
-## 8.7.8 리베이스 충돌과 해결
-  
-## 8.7.9 rebase 명령어로 커밋 수정
   
 ## 8.7.10 리베이스할 때 주의할 점
   
