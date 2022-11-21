@@ -14,4 +14,4 @@
 
 ### 7️⃣  <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_5w_Chapter-5/5.7%20%EC%88%9C%EC%84%9C.md"> 5.7 순서 </a>
 
-### 8️⃣  <a href = ""> 5.8 정리 </a>
+### 8️⃣  <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_5w_Chapter-5/5.8%20%EC%A0%95%EB%A6%AC.md"> 5.8 정리 </a>
