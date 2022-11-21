@@ -20,7 +20,7 @@
 
 ### :nine: <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_6w_Chapter-6/6.9%20%EC%9B%90%EA%B2%A9%20%EB%B8%8C%EB%9E%9C%EC%B9%98.md"> 6.9 원격 브랜치 </a>
 
-### 🔟: <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_6w_Chapter-6/6.10%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%A0%84%EC%86%A1.md"> 6.10 브랜치 전송 </a>
+### 🔟 <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_6w_Chapter-6/6.10%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%A0%84%EC%86%A1.md"> 6.10 브랜치 전송 </a>
 
 ### :one::one: <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_6w_Chapter-6/6.11%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%82%AD%EC%A0%9C.md"> 6.11 브랜치 삭제 </a>
 
