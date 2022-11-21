@@ -24,4 +24,4 @@
 
 ### :one::one: <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_6w_Chapter-6/6.11%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%82%AD%EC%A0%9C.md"> 6.11 브랜치 삭제 </a>
 
-### :one::two: <a href = ""> 6.12 정리 </a>
+### :one::two: <a href = "https://github.com/OSS3TEAM/DMU_OSS/blob/main/OSS3TEAM_6w_Chapter-6/6.12%20%EC%A0%95%EB%A6%AC.md"> 6.12 정리 </a>
